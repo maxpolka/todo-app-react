@@ -2,6 +2,7 @@
 
 Простое приложение для управления задачами с регистрацией и авторизацией.
 
+https://my-todos-fdf04.web.app/register
 <img width="1244" height="494" alt="image" src="https://github.com/user-attachments/assets/c9106bda-84a2-4187-8437-74d5572f7921" />
 
 ## Функциональность
